@@ -1,6 +1,5 @@
 # Go_project
 My first Go project with Vue Vite and TypeScript
-
 # web
 This template should help get you started developing with Vue 3 in Vite.
 ## Front Project Setup
